@@ -1,7 +1,7 @@
 # TBS_Prototype
 Turn Based Strategy prototype.
 
-Due to the size of the project this repository includes only the C++ source code (game core and editor's extension) and game blueprints (including UMG).
+Due to the size of the project this repository includes only the C++ source code (game core and editor's extension) and game blueprints (including UMG). It is enough to generate VS project, compile and look through the code and blueprints (some of them may compile with errors due to the invalid refs).
 
 Optimal UE4 version: 4.26
 
